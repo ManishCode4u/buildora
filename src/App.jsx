@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
 import { Routes, Route } from "react-router-dom";
 
-import Navbar from "./components/common/Navbar";
-import Footer from "./components/common/Footer";
-import BottomNav from "./components/BottomNav.jsx";
+import Navbar from "./components/common/Navbar.jsx";
+import Footer from "./components/common/Footer.jsx";
+import BottomNav from "./components/common/BottomNav.jsx";
+
 
 
 import Home from "./pages/Home";
